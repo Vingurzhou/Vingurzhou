@@ -5,8 +5,6 @@ I´m Raphael, system administrator in germany bavaria
 ## 🚀💻 Technologies & Tools
 
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
