@@ -1,27 +1,32 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there ，I'm VingurZhou<a href="https://zhouwenzhe.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![](https://komarev.com/ghpvc/?username=Vingurzhou&style=flat-square&color=brightgreen)
+The senior undergraduates who are studying hard, hope to be the envy of them at the end of graduation!
+- 🌱 I’m currently learning `Python` and `Golang`
+- 📫 How to reach me: zwz0123460218@icloud.com
+<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-I´m Raphael, system administrator in germany bavaria
+#### Platform&Tools
 
-## 🚀💻 Technologies & Tools
+[![](https://img.shields.io/badge/macOS-Monterey-FD6585?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>)
+[![](https://img.shields.io/badge/ubuntu-8.04-blue?style=flat-square&logo=Centos)](https://ubuntu.com/)
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+[![](https://img.shields.io/badge/Jetbrains-Pycharm-yellow?style=flat-square&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Postman-ed7547?style=flat-square&logo=postman&logoColor=ffffff)](https://www.postman.com/)
 
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang)
-  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vingurzhou&show_icons=true&theme=radical&hide_border=true" alt="VingurZhou's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vingurzhou&layout=compact&hide_border=true&text_color=9ffef6&bg_color=000000" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />  
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
+
