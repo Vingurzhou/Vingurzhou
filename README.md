@@ -10,7 +10,8 @@ I´m Raphael, system administrator in germany bavaria
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Python](https://img.shields.io/badge/-golang-black?style=flat-square&logo=golang)
+  ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Golang)
+  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 
 
 ## ⚡ GitHub Stats
