@@ -1,5 +1,5 @@
 ### Hi there ，I'm VingurZhou<a href="https://zhouwenzhe.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ![](https://komarev.com/ghpvc/?username=Vingurzhou&style=flat-square&color=brightgreen)
-The senior undergraduates who are studying hard, hope to be the envy of them at the end of graduation!
+A social animal with ugly appearance and bad character, from an unknown puben, hopes to get rid of this identity in the future.
 - 🌱 I’m currently learning `Python` and `Golang`
 - 📫 How to reach me: zwz0123460218@icloud.com
 <!--
