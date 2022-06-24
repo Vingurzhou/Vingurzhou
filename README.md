@@ -1,4 +1,4 @@
-### Hi there ，I'm VingurZhou<a href="https://zhouwenzhe.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a> ![](https://komarev.com/ghpvc/?username=Vingurzhou&style=flat-square&color=brightgreen)
+### Hi there ，I'm VingurZhou.<a href="https://zhouwenzhe.com">    😄   </a> ![](https://komarev.com/ghpvc/?username=Vingurzhou&style=flat-square&color=brightgreen)
 A company's slave from an unknown undergraduate university with ugly appearance and bad character.
 - 🌱 I’m currently learning `Python` and `Golang`
 - 📫 How to reach me: zwz0123460218@icloud.com
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Monterey-FD6585?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>)
