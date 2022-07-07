@@ -1,5 +1,5 @@
 ### Hello ，I'm VingurZhou               ![](https://komarev.com/ghpvc/?username=VingurZhou&style=flat-square&color=brightgreen)
-<!-- A company's slave from an unknown undergraduate university with ugly appearance and bad character. -->
+ A company's slave from an unknown undergraduate university with ugly appearance and bad character. 
 - 🌱 I’m currently learning `Python`  and `Golang`
 - 📫 How to reach me: zwz0123460218@icloud.com
 <!--
