@@ -6,4 +6,4 @@
 - 🔭 I’m a corporate slave with ugly face
 - 🌱 I’m currently learning golang and python
 - 📫 How to reach me: zwz0123460218@icloud.com
-- ⚡ Fun fact: Not practicing algorithms
+- ⚡ Fun fact: I don't practice algorithms
