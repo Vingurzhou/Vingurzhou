@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m a corporate slave with ugly face
+- 🔭 I’m a golang developer
 - 🌱 I’m currently learning golang and python
 - 📫 How to reach me: zwz0123460218@icloud.com
 - ⚡ Fun fact: I don't practice algorithms
